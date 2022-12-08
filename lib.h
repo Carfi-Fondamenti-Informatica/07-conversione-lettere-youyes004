@@ -4,5 +4,5 @@
 
 #ifndef ESERCITAZIONE7_LIB_H
 #define ESERCITAZIONE7_LIB_H
-bool convert (char &a);
+bool convert (char &);
 #endif //ESERCITAZIONE7_LIB_H
